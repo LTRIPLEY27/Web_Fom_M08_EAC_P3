@@ -1,69 +1,69 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <concesionario>
-	<coche marca = "Dodge">
+	<coche>
 		<modelo>Dodge Van</modelo>
 		<categoria>Camioneta</categoria>
 		<version>Familiar</version>
 		<precio_venta>2500</precio_venta>
 		<any>1984</any>
 	</coche>
-	<coche marca = "Ford">
+	<coche>
 		<modelo>Ford T</modelo>
 		<categoria>Coche</categoria>
 		<version>Clasico</version>
 		<precio_venta>7500</precio_venta>
 		<any>1927</any>
 	</coche>
-	<coche marca = "Cooper">
+	<coche>
 		<modelo>Mini</modelo>
 		<categoria>Coche</categoria>
 		<version>mini</version>
 		<precio_venta>3500</precio_venta>
 		<any>1959</any>
 	</coche>
-	<coche marca = "Citroen">
+	<coche>
 		<modelo>Ds</modelo>
 		<categoria>Familiar</categoria>
 		<version>Familiar</version>
 		<precio_venta>8999</precio_venta>
 		<any>1975</any>
 	</coche>
-	<coche  marca = "Volkswagen">
+	<coche >
 		<modelo>Escarabajo</modelo>
 		<categoria>standart</categoria>
 		<version>Familiar</version>
 		<precio_venta>10500</precio_venta>
 		<any>1938</any>
 	</coche>
-	<coche marca = "Volkswagen">
+	<coche>
 		<modelo>911</modelo>
 		<categoria>Deportivo</categoria>
 		<version>Porsche</version>
 		<precio_venta>11500</precio_venta>
 		<any>1964</any>
 	</coche>
-	<coche marca = "Jeep">
+	<coche>
 		<modelo>Willys</modelo>
 		<categoria>Todo terreno</categoria>
 		<version>Jeep</version>
 		<precio_venta>8400</precio_venta>
 		<any>1941</any>
 	</coche>
-	<coche marca = "Audi">
+	<coche>
 		<modelo>Quattro</modelo>
 		<categoria>Deportivo</categoria>
 		<version>standart</version>
 		<precio_venta>6999</precio_venta>
 		<any>1980</any>
 	</coche>
-	<coche marca = "Citroen">
+	<coche>
 		<modelo>Citroen Traction Avant</modelo>
 		<categoria>Coche</categoria>
 		<version>Familiar</version>
 		<precio_venta>11000</precio_venta>
 		<any>1934</any>
 	</coche>
-	<coche marca = "Tesla">
+	<coche>
 		<modelo>Tesla Model S</modelo>
 		<categoria>COCHE</categoria>
 		<version>Electrica</version>
