@@ -21,8 +21,40 @@ main {
     font-family: 'Courier New';
 }
 
+/*************************  MENÚ BAR  ****************************/
+
+#float {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.menu {
+    float: left;
+}
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        li a:hover:not(.active) {
+            background-color: #111;
+        }
+
+.active {
+    background-color: #04AA6D;
+}
+
+/*****************************************************/
+
 #form1 {
-    padding: 10% 30% 10% 35%;
+    padding: 5% 30% 10% 35%;
 }
 
 aside {
@@ -42,6 +74,12 @@ nav {
     height : 30px;
 }
 
+#subtitle {
+    font-family : 'Courier New';
+    font-size : 30px;
+    text-align : center;
+
+}
 /* LOS ATRIBUTOS A APLICAR PARA EJERCER EL EFECTO DEL BUTTON SE DEBEN DE APLICAR A LA LISTA */
 li {
     margin: 5px;
@@ -54,5 +92,27 @@ li {
     background: linear-gradient(to bottom,white, rgb(45, 211, 45)); /* LA PROPIEDAD "linear-gradient" se encarga de difuminar los colores para dar textura segun le indiquemos el porcentaje del gradiante*/
 }
 
+/*GALLERY SECTION */
+
+div.gallery {
+    margin: 50px 20px 20px 50px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 250px;
+}
+
+    div.gallery:hover {
+        border: 1px solid #777;
+    }
+
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
 
 

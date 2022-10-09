@@ -70,6 +70,8 @@
     <Content Include="data\faradayCar.xml" />
     <Content Include="data\faradaysCar.xslt" />
     <Content Include="Faraday2.xslt" />
+    <Content Include="img\citroenDS.PNG" />
+    <Content Include="img\fordt.PNG" />
     <Content Include="view\style.css" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />

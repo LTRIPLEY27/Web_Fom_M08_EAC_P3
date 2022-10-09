@@ -6,6 +6,7 @@
 			<xsl:apply-templates/>
 		</concesionario>
 	</xsl:template>
+	<!--INICIO DE LECTURA DEL CHILDNODE 'COCHE' CON CADA UNO D ELOS VALORES DE LOS ATRIBUTOS QUE CONTENDRÁN LOS NODOS HIJOS-->
 	<xsl:template match="coche">
 		<coche>
 			<xsl:attribute name="modelo">
